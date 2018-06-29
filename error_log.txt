@@ -1,0 +1,9 @@
+[10-Apr-2017 23:54:58 America/Toronto] PHP Warning:  fopen(): Filename cannot be empty in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 116
+[10-Apr-2017 23:54:58 America/Toronto] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 117
+[10-Apr-2017 23:54:58 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 118
+[10-Apr-2017 23:55:27 America/Toronto] PHP Warning:  fopen(usrs/AB_ABtxt): failed to open stream: No such file or directory in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 116
+[10-Apr-2017 23:55:27 America/Toronto] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 117
+[10-Apr-2017 23:55:27 America/Toronto] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 118
+[11-Apr-2017 10:57:59 America/Toronto] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/waqian/public_html/SYST10199/assignment6/A6.php:15) in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 106
+[11-Apr-2017 11:28:31 America/Toronto] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/waqian/public_html/SYST10199/assignment6/A6.php:15) in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 112
+[11-Apr-2017 11:32:12 America/Toronto] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/waqian/public_html/SYST10199/assignment6/A6.php:15) in /home/waqian/public_html/SYST10199/assignment6/A6.php on line 112
